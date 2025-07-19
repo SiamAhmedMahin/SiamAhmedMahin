@@ -1,36 +1,35 @@
-# Khandaker Siam Ahmed
+**Hello, I'm Khandaker Siam Ahmed**
 
-Mechanical Engineering student at the **Islamic University of Technology (IUT)** with a strong passion for the intersection of engineering, software, and intelligent systems. I am currently focused on developing a **Smart Waste Management solution** utilizing Python and Machine Learning for automated waste classification.
+I am a Mechanical Engineering student at Islamic University of Technology (IUT) with a dedicated focus on the integration of mechanical design and intelligent systems. My expertise encompasses Robotics, CAD Modeling, and the programming essential for robotics applications.
 
----
+~ Core Competencies:
+Robotics: Designing, developing, and programming robotic systems.
 
-##  About Me
+CAD Modeling: Proficient in 3D design, digital prototyping, and technical drafting.
 
--  **Education**: B.Sc. in Mechanical Engineering (Student), Islamic University of Technology (IUT)
--  **Current Focus**: Developing a Smart Waste Management system (Python, Computer Vision, ML for waste type detection).
--  **Core Interests**: CAD Design, Robotics, Automation, Programming, Machine Learning
--  **Projects & Involvement**:
-    - Active Contributor: Smart Waste Management Project
-    - Junior Executive: Project Altair
-    - Contributor: Project Aqua
-    - Contributor: Line Following Robot (LFR)
--  **Achievements**: Runner-up, UVDC
+Embedded Systems & Microcontrollers: Experience in developing solutions for embedded applications.
 
----
+Programming: Foundational knowledge in C (suitable for embedded and low-level control) and Python (utilized for higher-level logic, data processing, and rapid prototyping).
 
-##  Technical Skills
+Solidworks: Certified Solidworks Associate.
 
-- **Programming Languages**: Python, C, Java
-- **Machine Learning**: Foundational understanding, model application for classification
-- **CAD Software**: SolidWorks
-- **Robotics & Microcontrollers**: Arduino
-- **Animation Software**: Blender (Foundational)
+Blender: Basic proficiency in 3D animation.
 
----
+~ Key Projects & Contributions:
+Line Following Robot (LFR): Ongoing involvement in the development and optimization of LFR systems.
 
-##  Let's Connect!
+Smart Waste Bin Project: Currently designing and implementing an automated system for waste type sorting and disposal.
 
-- **LinkedIn**: [Khandaker Siam Ahmed](https://www.linkedin.com/in/khandakersiamahmed/)
-- **Email**: [siamahmed@iut-dhaka.edu](mailto:siamahmed@iut-dhaka.edu)
+Microcontroller-Based Projects: Developed various projects leveraging microcontroller technology for automation and control.
 
-Feel free to reach out for collaborations on innovative engineering projects or discussions on emerging technologies.
+CAD Projects: Extensive experience across diverse CAD design challenges.
+
+Project Altair (IUT Mars Rover Team): Junior member of the Mechanical and Manufacturing Subteam, contributing to rover development.
+
+~ Notable Achievements & Experience:
+2nd Place: Awarded second place in the Underwater Vehicle Design Competition at IIT Guwahati (as a team member).
+
+Project Altair (IUT Mars Rover Team): Active junior member within the Mechanical and Manufacturing Subteam.
+
+~ Connect With Me:
+I invite you to explore my repositories to review my work. I am always interested in collaborative opportunities in robotics, mechanical design, and embedded systems.
